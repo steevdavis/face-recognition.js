@@ -8,7 +8,7 @@
 <a href ="https://ci.appveyor.com/project/justadudewhohacks/face-recognition-js/branch/master"><img src="https://slack.bri.im/badge.svg" alt="Slack" title="Slack" /></a>
 </p>
 
-Simple Node.js API for robust face detection and face recognition. This a Node.js wrapper library for the face detection and face recognition tools implemented in <a href="https://github.com/davisking/dlib"><b>dlib</b></a>.
+Hii,  Simple Node.js API for robust face detection and face recognition. This a Node.js wrapper library for the face detection and face recognition tools implemented in <a href="https://github.com/davisking/dlib"><b>dlib</b></a>.
 
 ![rec](https://user-images.githubusercontent.com/31125521/34744199-b2690bae-f58c-11e7-8058-47896bf78b75.gif)
 
